@@ -8,7 +8,7 @@ Which works on navigation controller based iOS applications
 Use cocoapods to install this custom control in your project. install LottieHUD.
 
 ```bash
-pod 'LottieHud'
+pod 'LottieHUD'
 ```
 
 ## Usage 
